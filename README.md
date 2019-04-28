@@ -15,4 +15,4 @@ gradle bootRun
 
 #### Go here for more information
 
-https://github.com/josdem/jugoterapia-hazelcast
+https://josdem.io/jugoterapia/jugoterapia/
